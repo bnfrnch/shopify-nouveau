@@ -37,7 +37,7 @@
         "template--19339213668646__1b6cd962-1eca-4094-89b7-944c7890768f-168693339046faec2d-0": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "{{ page.metafields.custom.heading.value.heading.value }}",
             "heading_size": "h1"
           }
         },
