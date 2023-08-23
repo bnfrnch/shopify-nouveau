@@ -33,6 +33,12 @@
           "settings": {
           }
         },
+        "9e20ccd8-1dac-4207-8bea-fd1ac1126db7": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<app-calendar id=\"proj_pXGUhuSM63p6wac8QPd5c\"><\/app-calendar>"
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -46,6 +52,7 @@
         "variant_picker",
         "buy_buttons",
         "description",
+        "9e20ccd8-1dac-4207-8bea-fd1ac1126db7",
         "share"
       ],
       "settings": {
